@@ -4,7 +4,7 @@
 ![alt text](sabor-da-terra.png)
 <br/>
 
-Acesse o projeto: [Sabor da Terra](https://sabor-da-terra-jet.vercel.app/)<br/>
+Acesse o projeto: [Sabor da Terra](https://sabor-da-terra-tau.vercel.app/)<br/>
 
 ### 1. Sobre o projeto
 
