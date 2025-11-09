@@ -1,0 +1,58 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Abacaxi",
+            "price": 15.50,
+            "image": "./images/abacaxi.png"
+        },
+        {
+            "id": "2",
+            "name": "Banana",
+            "price": 12.40,
+            "image": "./images/banana.png"
+        },
+        {
+            "id": "3",
+            "name": "Laranja",
+            "price": 13.80,
+            "image": "./images/laranja.png"
+        },
+        {
+            "id": "4",
+            "name": "Limão",
+            "price": 11.90,
+            "image": "./images/limao.png"
+        },
+        {
+            "id": "5",
+            "name": "Maça",
+            "price": 14.80,
+            "image": "./images/maca.png"
+        },
+        {
+            "id": "6",
+            "name": "Mamão",
+            "price": 18.20,
+            "image": "./images/mamao.png"
+        },
+        {
+            "id": "7",
+            "name": "Morango",
+            "price": 16.70,
+            "image": "./images/morango.png"
+        },
+        {
+            "id": "8",
+            "name": "Pêra",
+            "price": 14.10,
+            "image": "./images/pera.png"
+        },
+        {
+            "id": "9",
+            "name": "Uva",
+            "price": 12.90,
+            "image": "./images/uva.png"
+        }
+    ]
+}
